@@ -20,5 +20,5 @@ To Run (on Bash):
 3. Exit the program using "CTRL-D".
 
 Credit: 
-1. The concept of the project was written and supplied by my course instructors, Nicholas Cioli and Dr. Susan Vrbsky.
-2. Any of the actual code, such as the NewMain.java file or Makefile, was written by myself.
+1. The concept of the project plus the Makefile was written and supplied by my course instructors, Nicholas Cioli and Dr. Susan Vrbsky.
+2. NewMain.java and the classes inside it were written by myself.
